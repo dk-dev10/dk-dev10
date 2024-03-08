@@ -1,38 +1,22 @@
-<a href="https://github.com/siberiacancode">
-  <img src="https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png" alt="
-      siberiacancode" align="center"/>
-</a>
 
-<h1 align="left">:wave: Hello there! I'm Dmitry Babin</h1>
+<h1 align="left">:wave: Hello there! I'm Yusup Kurbanov</h1>
 
+<!-- 
 <div>
-<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
-<a href="https://www.twitch.tv/siberiacancode/">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
+  <a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" 
 </div>
+-->
 
 <br>
 
-Frontend Developer from Siberia 🧊
-
+Frontend Developer (Javascript)
+<!--
 - :office: &nbsp;I'm currently working at **[ЦФТ](https://www.cft.ru/)**
 - :fire: &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 - :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
-
+-->
 <br>
-
-## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
-
-- ### [🎉 Mock Config Server](https://github.com/siberiacancode/mock-config-server)
-  tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [🔑 Google ReCaptcha](https://github.com/siberiacancode/google-recaptcha)
-  tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [📸 React Webcam Ultimate](https://github.com/siberiacancode/react-webcam-ultimate)
-  ultimate tool for working with media stream and displaying it in your react application
-- ### [♻️ Lodash Omitdeep](https://github.com/siberiacancode/lodash-omitdeep)
-  lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
 
