@@ -80,12 +80,6 @@ Frontend Developer (Javascript)
       </a>
       <br>github
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-      </a>
-      <br>docker
-    </td>
   </tr> 
 </table>
 
@@ -97,37 +91,7 @@ Frontend Developer (Javascript)
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
-      </a>
-      <br>rt library
-    </td>
-        <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-      </a>
-      <br>storybook
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
-      </a>
-      <br>cypress
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
-      </a>
-      <br>playwright
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>puppeteer
+      <br>Jest(in process)
     </td>
   </tr> 
 </table>
@@ -167,50 +131,36 @@ Frontend Developer (Javascript)
       </a>
       <br>React
     </td>
-     <td align="center" width="110" height="90">
+<!--      <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
       </a>
       <br>Next JS
-    </td>
- <td align="center" width="110" height="90">
+    </td> -->
+   <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="110" height="90"> 
+<!--  <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="36" height="36" alt="Mobx" />
       </a>
       <br>Mobx
-    </td>
+    </td> -->
      <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
       </a>
       <br>MUI
     </td>
-   <td align="center"  width="96">
+<!--    <td align="center"  width="96">
       <a href="#debabin-stack">
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="36" height="36" alt="Gatsby" />
       </a>
       <br>Gatsby
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr> 
-    <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo
-    </td>
+    </td> -->
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
@@ -238,6 +188,7 @@ Frontend Developer (Javascript)
   </tr> 
 </table>
 
+<!--
 > Mobile
 
 <table width='100%'>
@@ -250,28 +201,16 @@ Frontend Developer (Javascript)
     </td>
   </tr> 
 </table>
-
+-->
 > Backend
 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
-      </a>
-      <br>Nest JS
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
+      <br>Node JS (Express)
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack" >
@@ -285,20 +224,9 @@ Frontend Developer (Javascript)
       </a>
       <br>Firebase
     </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-      <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
-      </a>
-      <br>tRPC
-    </td>
   </tr> 
 </table>
+
 
 > Other
 
@@ -306,9 +234,9 @@ Frontend Developer (Javascript)
   <tr>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="electron" />
+        <img src="https://zod.dev/logo.svg" width="36" height="36" alt="zod" />
       </a>
-      <br>electron
+      <br>Zod
     </td>
   </tr> 
 </table>
