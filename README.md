@@ -315,11 +315,8 @@ Frontend Developer (Javascript)
 
 ## ☄️ Contact
 
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
-- :popcorn: &nbsp;**[Twitch](https://www.twitch.tv/siberiacancode)**
-- :bird: &nbsp;**[VK](https://vk.com/siberiacancode)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
-- :robot: &nbsp;**[Discord](https://discord.gg/UsM4F9h6hn)**
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :bird: &nbsp;**[VK](https://vk.com/webdev_2210)**
+- :airplane: &nbsp;**[Telegram](https://t.me/dkuba1122)**
+- :comet: &nbsp;**[Github](https://github.com/dk-dev10)**
 
 <br>
