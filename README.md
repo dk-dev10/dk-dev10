@@ -246,6 +246,6 @@ Frontend Developer (Javascript)
 
 - <img src="https://www.ph4.org/_RU/DL/LOGO_ICON/v/vk_.gif" width="15" height="15" alt="Node JS" /> &nbsp;**[VK](https://vk.com/webdev_2210)**
 - <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="15" height="15" alt="Node JS" /> &nbsp;**[Telegram](https://t.me/dkuba1122)**
-- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15" alt="github" /> &nbsp;**[Github](https://github.com/dk-dev10)**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" style={{backgroundColor: "white"}} height="15" alt="github" /> &nbsp;**[Github](https://github.com/dk-dev10)**
 
 <br>
