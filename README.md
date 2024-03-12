@@ -112,12 +112,12 @@ Frontend Developer (Javascript)
       </a>
       <br>prettier
     </td>
-        <td align="center" width="110" height="90">
+<!--         <td align="center" width="110" height="90">
       <a href="#debabin-stack">
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
       </a>
       <br>stylelint
-    </td>
+    </td> -->
   </tr> 
 </table>
 
@@ -243,8 +243,9 @@ Frontend Developer (Javascript)
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[VK](https://vk.com/webdev_2210)**
-- :airplane: &nbsp;**[Telegram](https://t.me/dkuba1122)**
-- :comet: &nbsp;**[Github](https://github.com/dk-dev10)**
+
+- <img src="https://www.ph4.org/_RU/DL/LOGO_ICON/v/vk_.gif" width="15" height="15" alt="Node JS" /> &nbsp;**[VK](https://vk.com/webdev_2210)**
+- <img src="https://brandeps.com/logo-download/T/Telegram-logo-vector-01.svg" width="15" height="15" alt="Node JS" /> &nbsp;**[Telegram](https://t.me/dkuba1122)**
+- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15" alt="github" /> &nbsp;**[Github](https://github.com/dk-dev10)**
 
 <br>
