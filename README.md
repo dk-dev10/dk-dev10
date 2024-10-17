@@ -16,7 +16,6 @@ Frontend Developer (Javascript)
 - :popcorn: &nbsp;My **[youtube channel](https://www.youtube.com/c/SIBERIACANCODE)**
 - :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/siberiacancode)**
 -->
-<br>[![trophy](https://github-profile-trophy.vercel.app/?username=dk-dev10)](https://github.com/dk-dev10/github-profile-trophy)
 <br>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
@@ -239,6 +238,9 @@ Frontend Developer (Javascript)
     </td>
   </tr> 
 </table>
+
+<br>[![trophy](https://github-profile-trophy.vercel.app/?username=dk-dev10)](https://github.com/dk-dev10/github-profile-trophy)
+
 
 ## ☄️ Contact
 
