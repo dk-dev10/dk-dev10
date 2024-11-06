@@ -81,19 +81,6 @@ Frontend Developer (Javascript)
   </tr> 
 </table>
 
-> Testing
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
-      </a>
-      <br>Jest(in process)
-    </td>
-  </tr> 
-</table>
-
 > Code quality
 
 <table width='100%'>
