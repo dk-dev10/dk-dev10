@@ -2,7 +2,7 @@
 <h1 align="left">:wave: Hello there! I'm Yusup Kurbanov</h1>
 
 
-<br>[![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={dk-dev10}&theme={github_dark})]
+<br>(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={dk-dev10}&theme={github_dark})
 <br>[![stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={dk-dev10}&theme={github_dark}&exclude={exclude})] [![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dk-dev10}&theme={github_dark})]
 
 
